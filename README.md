@@ -1,2 +1,2 @@
 # Dictionary
-Note: Need Java 1.8
+Note: Needs Java 1.8
